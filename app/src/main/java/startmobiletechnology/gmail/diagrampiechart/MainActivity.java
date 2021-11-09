@@ -20,9 +20,6 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
-    // https://github.com/PhilJay/MPAndroidChart
-    // Ссылка на видео
-    // https://www.youtube.com/watch?v=vhKtbECeazQ&t=654s
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
